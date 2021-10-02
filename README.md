@@ -1,4 +1,4 @@
-# SortingVisualizer
+# Sorting Visualizer
 Sorting Algorithm Visualizer via React.js
 - to demonstrate dexterity with React.js components, quality of code, and understanding of sorting algorithms
 
